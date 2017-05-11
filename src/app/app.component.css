@@ -1,0 +1,16 @@
+.bg-app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(268, 47%, 23%);
+}
+
+.bg-app:hover {
+  text-shadow: 2px 2px 0;
+}
+
+h1 {
+  font-style: oblique;
+  color: hsl(262, 82%, 59%);
+}
